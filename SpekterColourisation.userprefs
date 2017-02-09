@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="SpekterColourisation.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\MaskColors.shader">
+    <Files>
+      <File FileName="Assets\Script\GetSpekterColor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GetSpekterMask.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GetSpekterMaskx4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\Pixelate.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\MaskColors.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
